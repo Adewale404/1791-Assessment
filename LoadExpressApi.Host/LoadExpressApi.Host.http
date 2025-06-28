@@ -1,0 +1,6 @@
+@LoadExpressApi.Host_HostAddress = http://localhost:5149
+
+GET {{LoadExpressApi.Host_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
